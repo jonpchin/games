@@ -1,0 +1,4 @@
+Ice Blade, 0, 20, 4, 0, 0, 0, Blade, Ice, A fine crafted blade made of ice.
+Plasma Gun, 0, 30, 6, 0, 0, 0, Gun, Stun, Watch out, this bad boy can knock people out.
+Poison Dagger, 0, 0, 3, 0, 0, 0, Dagger, Poison, A dagger laced in venom.
+Scalpel, 0, 0, 1, 0, 0, 0, Blade, None, Used to cut up bodies.

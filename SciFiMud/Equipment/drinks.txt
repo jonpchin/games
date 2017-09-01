@@ -1,0 +1,2 @@
+Slurpie, 10, 20, 1, 0, 0, -1, 10, brainfreeze, This ice cold treat will freeze your brain.
+Green Potion, 0, 0, 4, 0, 0, 0, 20, haste, Murky green potion which can increase your speed.

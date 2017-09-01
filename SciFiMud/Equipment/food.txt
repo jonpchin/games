@@ -1,0 +1,3 @@
+Chicken, 50, 100, 0, 0, 0, 0, 0, None, Nothing like good old fashion chicken.
+Roast Beef, 100, 75, 0, 0, 0, 0, None, You drool at the sight of roast beef.
+Pork, 75, 150, 0, 0, 0, 0, 0, None, Your mouth waters at the sight of pork.
