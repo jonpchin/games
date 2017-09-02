@@ -11,8 +11,9 @@ There are three levels. Easy which has 9x9 grid, medium which has 16 x 16 grid a
 
 Game is completed and ready to play.
 
-The link to final version of mineclone 2.0 is https://github.com/hashSort/Mineclone/releases/tag/Mineclone
-Just download the jar file and run it. The game was tested with Java version 1.8. 
-You need JRE(Java Runtime Environment) in order to run the jar file. 
+In mineclone root directory:
+javac mineclone.java Game.java
+cd ..
+java mineclone.mineclone
 
 Enjoy!
